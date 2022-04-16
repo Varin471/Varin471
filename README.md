@@ -19,7 +19,6 @@
 <code><img height="40" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png"></code>
-<code><img height="40" src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png"></code>
 
                                         
        
