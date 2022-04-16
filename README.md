@@ -23,7 +23,7 @@
 
                                         
        
-# text editor.
+# Text Editor.
 
 <span><img height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></span>&nbsp;&nbsp;
 <span><img height="50" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></span>&nbsp;&nbsp;
