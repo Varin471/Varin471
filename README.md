@@ -11,10 +11,10 @@
 <h1 align="center">📊 Github Stats</h1>
 <br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Varin471&langs_count=10&show_icons=true&locale=en&layout=compact&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="250px" />
 
-<br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Varin471&show_icons=true&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"  />
-
-
-
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Varin471&langs_count=10&show_icons=true&locale=en&layout=compact&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varin471&show_icons=true&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+</a>
+</p>
