@@ -9,15 +9,14 @@
 
 
 
+<br><br>
+<h1 align="center">📊 Github Stats</h1>
+<br><br>
 
-
-
-
-## 📊 Github Stats
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varin471&langs_count=10&show_icons=true&locale=en&layout=compact&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="250px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Varin471&langs_count=10&show_icons=true&locale=en&layout=compact&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="250px" />
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Varin471&show_icons=true&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Varin471&show_icons=true&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"  />
+
+
 
