@@ -11,7 +11,7 @@
 
 
 <br>
-<i><h1 align="center">📊 Github Stats</h1></i>
+<i><h1 align="center"> Github Stats</h1></i>
 <br><br>
 
 
