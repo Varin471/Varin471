@@ -1,3 +1,5 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
 <i><h1 align="center">About me</h1></i>
 
 <h4> <i>About me are as follows: </i> </h4>
