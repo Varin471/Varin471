@@ -8,12 +8,10 @@
 - <i>🏫 PhothiSamphanPhitthayakan School. (M.6/2)</i>
 - <i>💻 The career that I want to be is frontend developer.</i>
 - <i>📚 At the moment I am studying the TypeScript language and React libraries.</i>
-
-
+- 
 <br>
 <i><h1 align="center"> Github Stats</h1></i>
-<br><br>
-
+<br>
 
 <p align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Varin471&show_icons=true&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>&nbsp; 
