@@ -8,7 +8,7 @@
 - <i>👓 Hi, I'm [Varin](https://github.com/Varin-V) I'm just a student Dek66.</i>
 - <i>🏫 PhothiSamphanPhitthayakan School. (M.6/2)</i>
 - <i>💻 The career that I want to be is frontend developer.</i>
-- <i>📚 At the moment I am studying the TypeScript language and React libraries.</i>
+- <i>📚 At the moment I am studying the TypeScript language and React.</i>
 
 
 
