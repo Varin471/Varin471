@@ -1,8 +1,6 @@
 ![Github Banner](https://raw.githubusercontent.com/Varin471/Varin471/main/bg-hero/l435eorEWh.png)
 
 <i><h1 align="center">About me</h1></i><br><br>
-
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif?cid=ecf05e47a47uzc5vf2sdyrro124orpblntez0xl8til67ftr&rid=giphy.gif&ct=g"  width="350px" height ="200px"/>
 <h2> <i>About me are as follows: </i> </h2>
 
 - <i>👓 Hi, I'm [Varin](https://github.com/Varin-V) I'm just a student Dek66.</i>
