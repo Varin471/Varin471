@@ -1,16 +1,14 @@
 ![Github Banner](https://raw.githubusercontent.com/Varin471/Varin471/main/bg-hero/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
-<i><h1 align="center">About me</h1></i><br><br>
-<h2> <i>About me are as follows: </i> </h2>
+<i><h1 align="center">About me</h1></i>
 
-- <i>👓 Hi, I'm [Varin](https://github.com/Varin-V) I'm just a student Dek66.</i>
-- <i>🏫 PhothiSamphanPhitthayakan School. (M.6/2)</i>
-- <i>💻 The career that I want to be is frontend developer.</i>
-- <i>📚 At the moment I am studying the TypeScript language and React.</i>
+<div align="center">
+    <i>👓 Hi, I'm <a href="https://github.com/Varin471/">Varin</a>&nbsp;just a student Dek66.</i><br>
+<i>🏫 PhothiSamphanPhitthayakan School. (M.6/2)</i><br>
+<i>💻 The career that I want to be is frontend developer.</i><br>
+<i>📚 At the moment I am studying the TypeScript language and React.</i><br>
+</div>
 
-
-
-<br><br>
 <i><h1 align="center"> Github Stats</h1></i>
 <br>
 
