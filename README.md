@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/Varin471/Varin471/main/bg-hero/l435eorEWh.png)
+![Github Banner](https://raw.githubusercontent.com/Varin471/Varin471/main/bg-hero/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
 <i><h1 align="center">About me</h1></i><br><br>
 <h2> <i>About me are as follows: </i> </h2>
